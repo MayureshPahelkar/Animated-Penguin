@@ -1,0 +1,1 @@
+Building an animated penguin using HTML and CSS involves creating various elements like body parts and animations using keyframes. This project helps learn CSS positioning, transforms, and animation techniques.
